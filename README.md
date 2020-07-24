@@ -12,3 +12,5 @@ Programme :
 * Descripteurs d'image - similarité
 * ACP
 * Eigenfaces
+
+https://www-master.ufr-info-p6.jussieu.fr/parcours/ima.new/bima/
